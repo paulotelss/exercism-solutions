@@ -8,10 +8,10 @@ O objetivo deste repositório é:
 - Resolver problemas clássicos de forma incremental
 - Manter um histórico organizado de aprendizado
 
-## 📌 Plataforma
+## Plataforma
 - Exercism: https://exercism.org/tracks/cpp
 
-## 🧠 Abordagem
+## Abordagem
 - Cada exercício é resolvido localmente
 - Testado manualmente em ambiente de desenvolvimento
 - Submetido ao Exercism e validado pelos testes oficiais
