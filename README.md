@@ -1,15 +1,17 @@
-# Exercism – C++ Solutions
+# Exercism – C++ & Java Solutions
 
-Este repositório contém minhas soluções para os exercícios do **Exercism**, utilizando a linguagem **C++**.
+Este repositório contém minhas soluções para os exercícios do **Exercism**, utilizando a linguagem **C++** e **Java**.
 
 O objetivo deste repositório é:
 - Praticar lógica de programação
 - Reforçar fundamentos de C++
+- Reforçar fundamentos de Java
 - Resolver problemas clássicos de forma incremental
 - Manter um histórico organizado de aprendizado
 
 ## Plataforma
 - Exercism: https://exercism.org/tracks/cpp
+- Exercism: https://exercism.org/tracks/java
 
 ## Abordagem
 - Cada exercício é resolvido localmente
